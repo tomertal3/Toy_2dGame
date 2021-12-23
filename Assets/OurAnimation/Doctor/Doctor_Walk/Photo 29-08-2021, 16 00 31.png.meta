@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: bb8157fd738ced04da4cf9629c2ad421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8926475043886269888
+    second: Photo 29-08-2021, 16 00 31_0
+  - first:
+      213: -4483195041855342227
+    second: Photo 29-08-2021, 16 00 31_1
+  - first:
+      213: -6756166501559967889
+    second: Photo 29-08-2021, 16 00 31_2
+  - first:
+      213: -7705031667454416859
+    second: Photo 29-08-2021, 16 00 31_3
+  - first:
+      213: 2492465958626935404
+    second: Photo 29-08-2021, 16 00 31_4
+  - first:
+      213: 4328294488184470896
+    second: Photo 29-08-2021, 16 00 31_5
+  - first:
+      213: -7590521972865694005
+    second: Photo 29-08-2021, 16 00 31_6
+  - first:
+      213: -255378348575429959
+    second: Photo 29-08-2021, 16 00 31_7
+  - first:
+      213: 6382813340060083299
+    second: Photo 29-08-2021, 16 00 31_8
+  - first:
+      213: -6495371029873924325
+    second: Photo 29-08-2021, 16 00 31_9
+  - first:
+      213: -2068902214899361909
+    second: Photo 29-08-2021, 16 00 31_10
+  - first:
+      213: 4863955184050484795
+    second: Photo 29-08-2021, 16 00 31_11
+  - first:
+      213: -2406081830085519217
+    second: Photo 29-08-2021, 16 00 31_12
+  - first:
+      213: -5324231979239161109
+    second: Photo 29-08-2021, 16 00 31_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af4c8fd3ace1480800000000000000
+      internalID: -8926475043886269888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1068
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697b67ccdd78c1c0800000000000000
+      internalID: -4483195041855342227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1068
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fdf1fcc564d32a0800000000000000
+      internalID: -6756166501559967889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1068
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286e3e758a321590800000000000000
+      internalID: -7705031667454416859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1068
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6246be6594079220800000000000000
+      internalID: 2492465958626935404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d348b97e0311c30800000000000000
+      internalID: 4328294488184470896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 166
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60b836b7c09a690800000000000000
+      internalID: -7590521972865694005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo 29-08-2021, 16 00 31_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 166
+        width: 498
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bae5d9beb6b47cf0800000000000000
+      internalID: -255378348575429959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
